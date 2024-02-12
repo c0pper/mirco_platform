@@ -1,0 +1,11 @@
+S15: Salve, hai visto il nuovo film uscito ieri?
+S22: Sì, S15, l'ho visto. Non mi ha entusiasmato molto, devo dire.
+S15: Ah, davvero? Io pensavo che fosse abbastanza interessante. Sono curioso di sapere cosa non ti è piaciuto.
+S22: S15, penso che la trama fosse un po' troppo prevedibile. Mi aspettavo qualcosa di più originale.
+S15: Capisco, hai ragione. A volte la mancanza di originalità può rovinare l'esperienza cinematografica.
+S22: Esattamente. Comunque, cambiando argomento, hai sentito delle ultime notizie sul progetto a cui stiamo lavorando?
+S15: Sì, ho sentito dire che ci sono alcune novità interessanti. Speriamo che tutto vada per il meglio.
+S22: Incrociamo le dita. Comunque, come procede il tuo lavoro sul rapporto mensile?
+S15: Sto facendo progressi, S22. Entro la fine della settimana dovrebbe essere pronto per la revisione.
+S22: Ottimo! Grazie per l'impegno. Sono sicuro che sarà un ottimo lavoro, come sempre.
+S15: Grazie, S22. Facciamo del nostro meglio per mantenere gli standard elevati.
